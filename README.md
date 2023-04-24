@@ -6,3 +6,9 @@ hello-cli
 ```sh
 npx https://github.com/mitchallen/hello-cli
 ```
+
+As of npm 7:
+
+```sh
+npm exec -- https://github.com/mitchallen/hello-cli
+```
