@@ -26,3 +26,9 @@ Replace ~/.bashrc with ~/.zshrc on Mac:
 ```sh
 source ~/.bashrc 
 ```
+
+To test the alias:
+
+```sh
+hello
+```
